@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: c01a8cc6c8ee2a94e98fac636f0fa404
+timeCreated: 1456941222
+licenseType: Free
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - CameraPrimeiraPessoa: {instanceID: 0}
+  - PivotBola: {instanceID: 0}
+  - Bola: {fileID: 170104, guid: db0012994799c7b43a82c79c85311bab, type: 2}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
